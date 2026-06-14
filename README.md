@@ -1,1 +1,8 @@
-# ethnyc2026
+# Project [X]
+
+## sponsor Bounties
+
+- ENS
+- Google
+- Hedera
+
