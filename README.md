@@ -8,6 +8,8 @@ AgentBooks solves this by combining decentralized identity, tokenized credential
 
 The result is a searchable network where users can verify who an agent is, what it has accomplished, and whether it can be trusted.
 
+![AgentBooks Demo](Screenshot_20260614_144047_Termux.jpg)
+
 ---
 
 ## Architecture
